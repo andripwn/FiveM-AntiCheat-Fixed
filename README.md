@@ -1,11 +1,11 @@
 # FiveM AntiCheat by andripwn
 
-[![Thymon](https://i.imgur.com/3EquTNl.jpg)](https://www.andripwndev.com)
+[![Thymon](https://i.imgur.com/3EquTNl.jpg)](http://www.pwn0day.com)
 
-[![Developer](https://img.shields.io/badge/Developer-andripwnDevelopment-darkgreen)](https://github.com/andripwnDevelopment)
-[![Discord](https://img.shields.io/badge/Discord-andripwn%239999-purple)](https://discordapp.com/users/636509961375055882)
-[![Version](https://img.shields.io/badge/Version-1.0.0-darkgreen)](https://github.com/andripwnDevelopment/andripwnAntiCheat/blob/master/version)
-[![Version](https://img.shields.io/badge/License-MIT-darkgreen)](https://github.com/andripwnDevelopment/andripwnAntiCheat/blob/master/LICENSE)
+[![Developer](https://img.shields.io/badge/Developer-andripwnDevelopment-darkgreen)](https://github.com/andripwn)
+[![Discord](https://img.shields.io/badge/Discord-andripwn%239999-purple)](https://discord.gg/PCYX4KN)
+[![Version](https://img.shields.io/badge/Version-1.0.0-darkgreen)](https://github.com/andripwn/FiveM-AntiCheat-Fixed/blob/master/version)
+[![Version](https://img.shields.io/badge/License-MIT-darkgreen)](https://github.com/andripwn/FiveM-AntiCheat-Fixed/blob/master/LICENSE)
 
 ### About andripwnAntiCheat
 
